@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 272 237" style="enable-background:new 0 0 272 237;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#003789;}
+	.st1{clip-path:url(#SVGID_2_);}
+	.st2{opacity:0.47;}
+	.st3{fill:#FFFFFF;}
+</style>
+<title>icon-micro</title>
+<g id="Layer_2_1_">
+	<g id="Layer_1-2">
+		<circle class="st0" cx="137.4" cy="118.5" r="118.5"/>
+		<g>
+			<defs>
+				<circle id="SVGID_1_" cx="137.4" cy="118.5" r="118.5"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<g class="st1">
+				<g class="st2">
+					<rect x="-24" y="131.9" class="st3" width="111" height="45.6"/>
+					<rect x="107" y="131.9" class="st3" width="67" height="45.6"/>
+					<rect x="194" y="131.9" class="st3" width="74" height="45.6"/>
+				</g>
+				<g class="st2">
+					<rect x="7" y="66.9" class="st3" width="62" height="45.6"/>
+					<rect x="89" y="66.9" class="st3" width="52" height="45.6"/>
+					<rect x="160" y="66.9" class="st3" width="33" height="45.6"/>
+					<rect x="212" y="66.9" class="st3" width="60" height="45.6"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
